@@ -1,0 +1,7 @@
+# remove example
+http://ip:port
+https://ip:port
+http://user:pass@ip:port
+https://user:pass@ip:port
+socks4://ip:port
+socks5://ip:port
