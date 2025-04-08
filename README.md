@@ -3,7 +3,8 @@ Simple proxy checker using requests python to check http / https / socks proxy
 
 ### Installation
 - Make sure you have python installed on your system.
-- Clone the repository using `git clone https://github.com/ahmadxp/proxy-check.git` & open folder `cd proxy-check`
+- Clone repository `git clone https://github.com/ahmadxp/proxy-check.git`
+- open folder `cd proxy-check`
 - Install the required libraries by running `pip install -r requirements.txt`
 
 ### Setup Proxy List
@@ -20,6 +21,10 @@ socks5://ip:port
 ### Usage
 - Run the script using `python main.py`
 - Input your proxy list
+Added new feature *Proxy Type* using `new.py` (still on progress)
 
-#### Buy me a coffee
+#### Result
+Live proxy list result saved in result.txt
+
+### Buy me a coffee
 TON: UQBzcz29PVnGqpXeb8R5R22MbP7WbHBXGBxefTU8_uvnsZ55
