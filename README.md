@@ -21,7 +21,7 @@ socks5://ip:port
 ### Usage
 - Run the script using `python main.py`
 - Input your proxy list
-Added new feature *Proxy Type* using `new.py` (still on progress)
+- Added new feature *Proxy Type* using `new.py` (still on progress)
 
 #### Result
 Live proxy list result saved in result.txt
